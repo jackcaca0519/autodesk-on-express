@@ -1,1 +1,2 @@
-/QRcode_scanner/android/app/debug.keystore
+/node_modules
+.env
